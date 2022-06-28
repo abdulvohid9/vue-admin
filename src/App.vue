@@ -1,32 +1,39 @@
 <template>
   <div id="app">
-    <nav>
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
+    <nav class="nav">
+      <router-link class="link" to="/">Home</router-link> |
+      <router-link class="link" to="/quote">Quote</router-link>|
+      <router-link class="link" to="/autor">Autor</router-link>
     </nav>
-    <router-view />
+    <div class="container">
+      <router-view />
+    </div>
   </div>
 </template>
 
-<style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-}
+<script>
+export default {
+  name: "app",
+  components: {},
+};
+</script>
 
-nav {
-  padding: 30px;
+<style scoped>
+.nav {
+  padding: 30px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 22px;
+  font-weight: 500;
+  gap: 30px;
+  color: #fff;
 }
-
-nav a {
-  font-weight: bold;
-  color: #2c3e50;
+.link {
+  color: #fff;
 }
-
-nav a.router-link-exact-active {
-  color: #42b983;
+.container {
+  margin: 100px auto;
+  max-width: 1400px;
 }
 </style>

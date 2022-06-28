@@ -1,0 +1,81 @@
+{
+  "quotes": [
+    {
+      "genres": [
+        {
+          "id": "3150579a-7530-44ca-b855-d3a370758eef",
+          "genre": "selfish and lazy"
+        },
+        {
+          "id": "4146fc52-e334-4fe8-a48a-3b60976ab488",
+          "genre": "mystery"
+        }
+      ],
+      "created_at": "2022-06-28T09:22:55.918Z",
+      "updated_at": "2022-06-28T09:22:55.919Z",
+      "quote": "A writer never has a vacation. For a writer life consists of either writing or thinking about writing. ",
+      "autor": "~Eugene Ionesco",
+      "id": 1
+    },
+    {
+      "genres": [
+        {
+          "id": "5d3da877-6e9f-44a5-bf0c-0d87e1873d12",
+          "genre": "tenuous"
+        },
+        {
+          "id": "4c4b0aa3-5c3b-46fe-8433-f956da711266",
+          "genre": "crazy"
+        }
+      ],
+      "created_at": "2022-06-28T09:24:32.534Z",
+      "updated_at": "2022-06-28T09:24:32.535Z",
+      "quote": "But writers and their woes they couldn’t be parted. Not for anything. ",
+      "autor": "Naomi Wood",
+      "id": 2
+    },
+    {
+      "genres": [
+        {
+          "id": "494f68e8-05c0-4cc3-98b3-8fa85dc4d170",
+          "genre": "realities"
+        }
+      ],
+      "created_at": "2022-06-28T09:25:33.274Z",
+      "updated_at": "2022-06-28T09:25:33.274Z",
+      "quote": "Authors were shy, unsociable creatures",
+      "autor": "Agatha Christie",
+      "id": 3
+    },
+    {
+      "genres": [
+        {
+          "id": "ad74f67f-e81b-4330-aaa9-be1252ebe9bd",
+          "genre": "realities"
+        },
+        {
+          "id": "ebdd05bf-f3d3-4a44-bf71-7c245e570877",
+          "genre": "crazy"
+        }
+      ],
+      "created_at": "2022-06-28T09:26:19.374Z",
+      "updated_at": "2022-06-28T09:26:19.374Z",
+      "quote": "Good writers define reality bad ones merely restate it.",
+      "autor": "Edward Albee",
+      "id": 4
+    },
+    {
+      "genres": [
+        {
+          "id": "2ddf58cb-fb5e-4610-9674-bbf5c169a29e",
+          "genre": "crazy"
+        }
+      ],
+      "created_at": "2022-06-28T09:27:50.185Z",
+      "updated_at": "2022-06-28T09:27:50.185Z",
+      "quote": "Authors were shy, unsociable creatures,",
+      "autor": "Agatha Christie",
+      "id": 5
+    }
+  ]
+}
